@@ -30,7 +30,7 @@ class Program
             else if (choice != "play")
             {
                 Console.WriteLine("Invalid option. Please type either 'play' or 'check'");
-                continue;check
+                continue;
             }
 
         //Generate random number between 1 and 100
